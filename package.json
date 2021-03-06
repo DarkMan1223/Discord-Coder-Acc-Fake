@@ -1,9 +1,9 @@
 {
-  "name": "Kahrbaa",
+  "name": "DarkMan",
   "version": "1.0.0",
-  "description": "BrodCast By : Kahrbaa",
-  "main": "bot.js",
-  "author": "Kahrbaa",
+  "description": "BrodCast By : DarkMan",
+  "main": "DarkMan.js",
+  "author": "DarkMan",
   "license": "MIT",
       "engines": {
         "node": "10.x"
