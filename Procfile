@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node DarkMan.js
